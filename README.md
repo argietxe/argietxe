@@ -15,6 +15,7 @@
 <br/>
 <br/>
 <br/><samp>· languages & tools :</samp>
+<br/>
 <p align="left">
 <a href="https://pandas.pydata.org" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/P/pandas-icon-logo-BE10401BF1-seeklogo.com.png" alt="python" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
