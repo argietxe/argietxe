@@ -26,7 +26,7 @@
 <a href="https://www.adobe.com/in/products/indesign.html" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/I/indesign-cc-logo-D006452FBD-seeklogo.com.png" alt="illustrator" width="40" height="40"/> </a> 
 </p>
 
-<br/><samp>· contact :</samp>
+<br/><samp>· let's be in touch</samp>
 <br/>
 <p align="left">
 <a href="https://www.linkedin.com/in/argitxu-etche/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="joaoteixeira" height="30" width="40" /></a>
