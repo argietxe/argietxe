@@ -12,7 +12,7 @@
 <br/>
 <br/>languages & tools : 
 <br/><samp>languages & tools : </samp>
-<br/>$languages & tools :$
+<br/>$languages & tools$
 
 
 | Syntax | Description |
