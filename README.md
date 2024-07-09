@@ -6,7 +6,6 @@
 · currently working on software engineer\
 <br/>
 <br/>
-<br/>
 · some projects i've been working on : </samp>
 |    |    |
 | ----------- | ----------- |
