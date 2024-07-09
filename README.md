@@ -1,5 +1,5 @@
 ### Argitxu Etchebarne *(she/her)*
-#### Data analytics, information design & data visualization
+<samp>#### Data analytics, information design & data visualization
 ⦾ background in art & design\
 ⦾ studied critical and speculative design\
 ⦾ recently specialized in data analytics\
@@ -10,14 +10,5 @@
 *Hostile Bodies* : Investigation of data centers in Iceland, analysis of environments representing paradoxal relations between human and machine landscapes.\
 <br/>
 <br/>
-<br/>languages & tools :\
-<br/><samp>languages & tools : </samp>
-
-
-
-| Syntax | Description |
-| ----------- | ----------- |
-| **Sustainable Journeys** | Visualizing tourism's impact on economies and environments worldwide from 2004 to 2020. |
-| **Hostile Bodies** | Investigation of data centers in Iceland, analysis of environments representing paradoxal relations between human and machine landscapes. |
-
+<br/>languages & tools :\</samp>
 
