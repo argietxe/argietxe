@@ -3,7 +3,7 @@
 <samp>⦾ background in art & design\
 ⦾ studied critical and speculative design\
 ⦾ recently specialized in data analytics\
-⦾ currently working on software engineer\</samp>
+⦾ currently working on software engineer\ </samp>
 <br/>
 ⦾ some projects i've been working on :
     _ <samp>*Sustainable Journeys* : Visualizing tourism's impact on economies and environments worldwide from 2004 to 2020.</samp>
