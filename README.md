@@ -16,5 +16,5 @@
 
 | Syntax | Description |
 | ----------- | ----------- |
-| Sustainable Journeys | Visualizing tourism's impact on economies and environments worldwide from 2004 to 2020. |
-| Hostile Bodies | Investigation of data centers in Iceland, analysis of environments representing paradoxal relations between human and machine landscapes. |
+| **Sustainable Journeys** | Visualizing tourism's impact on economies and environments worldwide from 2004 to 2020. |
+| **Hostile Bodies** | Investigation of data centers in Iceland, analysis of environments representing paradoxal relations between human and machine landscapes. |
