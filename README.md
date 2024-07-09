@@ -25,3 +25,9 @@
 <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank" rel="noreferrer"> <img src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/092021/adobe_photshop.png?xAyAV_DyXe7IiSYudpZ.qCLdqe94IvMW&itok=gnMADkLM" alt="illustrator" width="40" height="40"/> </a> 
 <a href="https://www.adobe.com/in/products/indesign.html" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/I/indesign-cc-logo-D006452FBD-seeklogo.com.png" alt="illustrator" width="40" height="40"/> </a> 
 </p>
+
+<br/><samp>· contact :</samp>
+<br/>
+<p align="left">
+<a href="https://www.linkedin.com/in/argitxu-etche/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="joaoteixeira" height="30" width="40" /></a>
+</p>
