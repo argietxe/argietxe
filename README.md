@@ -1,6 +1,6 @@
 ### Argitxu Etchebarne *(she/her)*
 #### Data analytics, information design & data visualization
-<samp>⦾ background in art & design\
+<samp>· background in art & design\
 · studied critical and speculative design\
 · recently specialized in data analytics\
 · currently working on software engineer\
