@@ -1,16 +1,17 @@
-## Hi there 👋
+## Argitxu Etchebarne *(she/her)*
+### Data analytics & visualization
+**Information design**
 
-<!--
-**argietxe/argietxe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+based in Berlin, Germany
 
-Here are some ideas to get you started:
+studied critical and speculative design
+recently specialized in data analytics
+currently working on data visulization projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+some projects i've been working on :
+  ***Sustainable Journeys*** : Visualizing tourism's impact on economies and environments worldwide from 2004 to 2020.
+  ***Hostile Bodies*** : Investigation of data centers in Iceland, analysis of environments representing paradoxal relations between human and machine landscapes. 
+
+
+languages & tools : 
