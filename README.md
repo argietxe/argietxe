@@ -12,3 +12,7 @@
 <br/>
 <br/>languages & tools :\
 
+| Syntax | Description |
+| ----------- | ----------- |
+| <samp><samp>*Sustainable Journeys*</samp></samp> | <samp><samp>Visualizing tourism's impact on economies and environments worldwide from 2004 to 2020.</samp></samp> |
+| <samp><samp>*Hostile Bodies*</samp></samp> | <samp><samp>Investigation of data centers in Iceland, analysis of environments representing paradoxal relations between human and machine landscapes.</samp></samp> |
