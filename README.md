@@ -1,11 +1,10 @@
 ## Argitxu Etchebarne *(she/her)*
-### Data analytics, information design & data visualization
+**Data analytics, information design & data visualization**
 <br/>based in Berlin, Germany
 <br/>
 <br/>studied critical and speculative design
 <br/>recently specialized in data analytics
 <br/>currently working on data visulization projects
-<br/>
 <br/>
 <br/>some projects i've been working on :
 <br/> - ***Sustainable Journeys*** : Visualizing tourism's impact on economies and environments worldwide from 2004 to 2020.
