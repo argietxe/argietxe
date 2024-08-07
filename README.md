@@ -1,18 +1,10 @@
 ### Argitxu Etchebarne *(she/her)*
 #### Data analytics, information design & data visualization
-I am a Data Analyst, Project Manager, and Creative Specialist based in Berlin, Germany. My background spans diverse fields including design research, visual arts, and set design, which has honed my ability to think critically and creatively. I've recently shifted my focus to data analysis, where I blend my analytical skills with my artistic sensibilities to create engaging and informative visualizations.
-
+<samp> I am a Data Analyst, Project Manager, and Creative Specialist based in Berlin, Germany. My background spans diverse fields including design research, visual arts, and set design, which has honed my ability to think critically and creatively. I've recently shifted my focus to data analysis, where I blend my analytical skills with my artistic sensibilities to create engaging and informative visualizations.
 I thrive on creativity and versatility, adapting quickly to various work environments and team dynamics. My experience includes mapping out regions, creating interactive digital platforms, and working with local communities to uncover and share stories. My passion lies in using data to uncover patterns, analyze trends, and communicate insights clearly through interactive dashboards and real-time data visualizations.
-
 I love working in teams, fostering a collaborative and positive atmosphere, and I bring a proactive and logical approach to every project. My strong communication skills, developed through my artistic and design projects, enable me to effectively convey complex data in a visually compelling manner.\
 <br/>
 <br/>
-<br/>· Feel free to connect with me on LinkedIn
-<p align="left">
-<a href="https://www.linkedin.com/in/argitxu-etche/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="joaoteixeira" height="30" width="40" /></a>
-<br/>
-<br/>
-</p>
 · some projects i've been working on : </samp>
 |    |    |
 | ----------- | ----------- |
@@ -20,7 +12,7 @@ I love working in teams, fostering a collaborative and positive atmosphere, and 
 | <samp><samp>*Hostile Bodies*</samp></samp> | <samp><samp>Investigation of data centers in Iceland, analysis of environments representing paradoxal relations between human and machine landscapes.</samp></samp> |
 <br/>
 <br/>
-<br/>· languages & tools :
+<br/><samp>· languages & tools :</samp>
 <br/>
 <br/><p align="left">
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
@@ -33,3 +25,7 @@ I love working in teams, fostering a collaborative and positive atmosphere, and 
 <a href="https://www.adobe.com/in/products/indesign.html" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/I/indesign-cc-logo-D006452FBD-seeklogo.com.png" alt="illustrator" width="40" height="40"/> </a> 
 </p>
 
+<br/><samp>· let's be in touch</samp>
+<p align="left">
+<a href="https://www.linkedin.com/in/argitxu-etche/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="joaoteixeira" height="30" width="40" /></a>
+</p>
