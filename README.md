@@ -1,9 +1,10 @@
 ### Argitxu Etchebarne *(she/her)*
 #### Data analytics, information design & data visualization
-<samp>· background in art & design\
-· studied critical and speculative design\
-· recently specialized in data analytics\
-· currently working on software engineer\
+<samp> I am a Data Analyst, Project Manager, and Creative Specialist based in Berlin, Germany. My background spans diverse fields including design research, visual arts, and set design, which has honed my ability to think critically and creatively. I've recently shifted my focus to data analysis, where I blend my analytical skills with my artistic sensibilities to create engaging and informative visualizations.
+
+I thrive on creativity and versatility, adapting quickly to various work environments and team dynamics. My experience includes mapping out regions, creating interactive digital platforms, and working with local communities to uncover and share stories. My passion lies in using data to uncover patterns, analyze trends, and communicate insights clearly through interactive dashboards and real-time data visualizations.
+
+I love working in teams, fostering a collaborative and positive atmosphere, and I bring a proactive and logical approach to every project. My strong communication skills, developed through my artistic and design projects, enable me to effectively convey complex data in a visually compelling manner.\
 <br/>
 <br/>
 · some projects i've been working on : </samp>
