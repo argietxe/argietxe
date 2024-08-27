@@ -22,7 +22,7 @@ My experience includes mapping out regions, creating interactive digital platfor
 · some projects i've been working on : 
 |    |    |
 | ----------- | ----------- |
-| <samp><samp>*Sustainable Journeys*</samp></samp> | <samp><samp>Visualizing tourism's impact on economies and environments worldwide from 2004 to 2020.</samp></samp> |
+| <samp><samp>*[Sustainable Journeys]([https://github.com/username/awesome-project](https://github.com/argietxe/sustainable_tourism))*</samp></samp> | <samp><samp>Visualizing tourism's impact on economies and environments worldwide from 2004 to 2020.</samp></samp> |
 | <samp><samp>*Hostile Bodies*</samp></samp> | <samp><samp>Investigation of data centers in Iceland, analysis of environments representing paradoxal relations between human and machine landscapes.</samp></samp> |
 <br/>
 <br/>
