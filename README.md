@@ -15,14 +15,13 @@ My experience includes mapping out regions, creating interactive digital platfor
 <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank" rel="noreferrer"> <img src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/092021/adobe_photshop.png?xAyAV_DyXe7IiSYudpZ.qCLdqe94IvMW&itok=gnMADkLM" alt="illustrator" width="40" height="40"/> </a> 
 <a href="https://www.adobe.com/in/products/indesign.html" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/I/indesign-cc-logo-D006452FBD-seeklogo.com.png" alt="illustrator" width="40" height="40"/> </a> 
 
-<br/>· feel free to connect with me on LinkedIn        
-<a href="https://www.linkedin.com/in/argitxu-etche/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="argitxu-etche" height="30" width="40" /></a>
+<br/>· feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/argitxu-etche/)        
 <br/>
 <br/>
 · some projects i've been working on : 
 |    |    |
 | ----------- | ----------- |
-| <samp><samp>*[Sustainable Journeys]([https://github.com/username/awesome-project](https://github.com/argietxe/sustainable_tourism))*</samp></samp> | <samp><samp>Visualizing tourism's impact on economies and environments worldwide from 2004 to 2020.</samp></samp> |
+| <samp><samp>*[Sustainable Journeys](https://github.com/argietxe/sustainable_tourism)*</samp></samp> | <samp><samp>Visualizing tourism's impact on economies and environments worldwide from 2004 to 2020.</samp></samp> |
 | <samp><samp>*Hostile Bodies*</samp></samp> | <samp><samp>Investigation of data centers in Iceland, analysis of environments representing paradoxal relations between human and machine landscapes.</samp></samp> |
 <br/>
 <br/>
